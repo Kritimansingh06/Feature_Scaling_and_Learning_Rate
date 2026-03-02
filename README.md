@@ -84,8 +84,8 @@ The notebook plots relationships between each feature and target price to help u
 <h2>▶️ How to Run</h2>
 
 <pre>
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/Kritimansingh06/Feature_Scaling_and_Learning_Rate.git
+cd Feature_Scaling_and_Learning_Rate
 jupyter notebook
 </pre>
 
